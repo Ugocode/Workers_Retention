@@ -7,4 +7,4 @@ Models were built using three different modelling technique Logistic Regression,
 
 An extensive Exploreratory Data Analysis was carried out to get the best features for my modeling 
 
-Also I got insight with random forest feature importance to see the important features that help make my predictions 
+Also I got insight with random forest feature importance to see the important features that help make my predictions. 
