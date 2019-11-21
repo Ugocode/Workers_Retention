@@ -6,7 +6,7 @@ The goal is to predict the likelyhood of employee turnover or employee leaving a
 ---
 ## File Guide
 
-HR_data.csv :  The Human Resource dataset for the modelling 
+HR_data.csv :  The Human Resource dataset for this project 
 
 Predicting _workers_retention.ipynb : Jupyter notebook for the project 
 
