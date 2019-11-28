@@ -1,5 +1,8 @@
 # Workers_Retention
 
+![](EmployeeRetention.jpg)
+
+
 ## Problem Definition 
 The goal is to predict the likelyhood of employee turnover or employee leaving a company 
 
