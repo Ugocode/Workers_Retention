@@ -4,7 +4,7 @@
 
 
 ## Problem Definition 
-The goal is to predict the likelyhood of employee turnover or employee leaving a company 
+The goal is to predict with machine learning the likelyhood of employee turnover or employee leaving a company and what can be done to help reduce the likelyhood of employee turnover 
 
 ---
 ## File Guide
