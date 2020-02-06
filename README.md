@@ -35,4 +35,6 @@ Gradient boosting with Cross Fold Validation set to 5
 
 Also I got insight with random forest feature importance to see the important features that help make my predictions. 
 
+Check the .ipynb file to see more
+
 
