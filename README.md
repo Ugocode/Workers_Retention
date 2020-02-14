@@ -49,9 +49,9 @@ Cluster 3 (Hard-working and Happy Employee): Satisfaction between 0.7~1.0 and ev
 Also I got insight with random forest feature importance to see the important features that help make my predictions
 and found:
 
-Workers Satisfaction, 
+**Workers Satisfaction, 
 
-Years working in the company as features that help predict if there will be workers turnover or not
+**Years working in the company** as features that help predict if there will be workers turnover or not
 
 Check the .ipynb file to see more
 
