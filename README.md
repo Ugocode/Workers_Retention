@@ -37,11 +37,11 @@ There are 3 distinct clusters for employees who left the company
 
 Cluster 1 (Hard-working and Sad Employee): Satisfaction was below 0.2 and evaluations were greater than 0.75. Which could be a good indication that employees who left the company were good workers but felt horrible at their job.
 
-Question: What could be the reason for feeling so horrible when you are highly evaluated? Could it be working too hard? Could this cluster mean employees who are "overworked"?
+*Question: What could be the reason for feeling so horrible when you are highly evaluated? Could it be working too hard? Could this cluster mean employees who are "overworked"?*
 
 Cluster 2 (Bad and Sad Employee): Satisfaction between about 0.35~0.45 and evaluations below ~0.58. This could be seen as employees who were badly evaluated and felt bad at work.
 
-Question: Could this cluster mean employees who "under-performed"?
+*Question: Could this cluster mean employees who "under-performed"?*
 
 
 Cluster 3 (Hard-working and Happy Employee): Satisfaction between 0.7~1.0 and evaluations were greater than 0.8. Which could mean that employees in this cluster were "ideal". They loved their work and were evaluated highly for their performance.
@@ -53,6 +53,6 @@ and found:
 
 **Years working in the company** as features that help predict if there will be workers turnover or not
 
-Check the .ipynb file to see more
+Check the .ipynb file to see more.
 
 
