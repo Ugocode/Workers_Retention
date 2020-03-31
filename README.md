@@ -4,12 +4,12 @@
 
 
 ## Problem Definition 
-The goal is to predict with machine learning the likelyhood of employee turnover or employee leaving a company and what can be done to help reduce the likelyhood of employee turnover 
+The goal is to predict with machine learning the likelyhood of employee turnover or employee leaving a company and what can be done to help reduce the likelyhood of employee turnover. 
 
 ---
 ## File Guide
 
-HR_data.csv :  The Human Resource dataset for this project 
+HR_data.csv :  The Human Resource dataset for this project. 
 
 Predicting _workers_retention.ipynb : Jupyter notebook for the project. 
 
@@ -23,7 +23,7 @@ An extensive Exploreratory Data Analysis was carried out to get the best feature
 
 ## Modelling Technique: 
 
-Models were built using three different modelling technique 
+Models were built using three different modelling technique such as: 
 
 Logistic Regression 
 
