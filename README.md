@@ -53,7 +53,7 @@ and found:
 
 **Years working in the company** as features that help predict if there will be workers turnover or not
 
-Check the .ipynb file to see more.
+Check the **.ipynb** file to see more.
 
 Great work!
 
